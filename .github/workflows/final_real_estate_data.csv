@@ -1,0 +1,6 @@
+SaleID,PropertyID,LenderName,SaleAmount,SaleDate,City,OwnerName,ContactInfo
+1,1,Lender A,100000,2021-01-31,City 1,Owner A,Email1@example.com
+2,2,Lender B,150000,2021-02-28,City 2,Owner B,Email2@example.com
+3,3,Lender C,200000,2021-03-31,City 3,Owner C,Email3@example.com
+4,4,Lender A,250000,2021-04-30,City 1,Owner D,Email4@example.com
+5,5,Lender D,300000,2021-05-31,City 2,Owner E,Email5@example.com
